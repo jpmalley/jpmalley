@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there.
+
+I'm a **developer** with a **design background** who can build a website from the ground up and make it look fantastic. In addition to a wealth of technical skills, I also pride myself on being a **strong communicator** who can break down complex topics without judgement or jargon. 
+
+I spent the last 5 years as a developer, **technical project manager**, and technology department head at an ecommerce company that did $60M per year in revenue. I'm looking for my next opportunity so here are some of my best work examples:
+
+## TeeTurtle.com Homepage & Interface 
+### HTML, CSS, 
+
+
 
 <!--
 **jpmalley/jpmalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
