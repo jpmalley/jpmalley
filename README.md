@@ -24,8 +24,7 @@ TeeTurtle needed a striking landing page design for all of their major releases 
 
 I was given an blank canvas and decided to delve into javascript animations using the GSAP framework. With the help of the art team we were able convert already produced animation assets to scroll-triggered web animations.
 
-The page for Here to Slay is, in my opinion one of the best and still is live on the Unstable Games website. 🔗 [Take a look here!]
-(https://www.teeturtle.com/site/here-to-slay)
+The page for Here to Slay is, in my opinion one of the best and still is live on the Unstable Games website. 🔗 [Take a look here!](https://www.teeturtle.com/site/here-to-slay)
 <!--
 **jpmalley/jpmalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
