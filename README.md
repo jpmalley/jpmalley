@@ -12,7 +12,7 @@ At the time, TeeTurtle's entire $10M e-commerce business was hosted on a bog-sta
 The current TeeTurtle.com is still using the same design and interface which I created in 2019 (with some cosmetic updates in 2021, also coded by me). 🔗 [Take a look here!](https://www.teeturtle.com/)
 
 
-### File Transfer App
+### [File Transfer App](https://filetransfer.johnpmalley.com)
 ***Python, HTML, Sass, CSS, JavaScript, SQL, Django, Bootstrap,AWS ElasticBeanstalk, EC2, RDS, S3, ELB***
 
 This simple Django app uploads a file securely to Amazon S3 and generates an easily sharable presigned URL with user specified expiration. Upon clicking upload, an AJAX request is sent to the server to generate presigned post URL with specific conditions to the file being uploaded. The request returns a post URL and the client's browser then handles the upload directly to S3 via JavaScript, avoiding additional server-side load. After a successful upload, the server generates a presigned download URL that expires at the specified time. Object lifecycles in the S3 bucket are managed to ensure objects are deleted permanently within 24 hours of link expiration. HTTP/1.1 Caching is also managed to ensure expiration coincides with link expiration.
