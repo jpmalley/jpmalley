@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **developer** 👨‍💻 with a **design background** 👨‍🎨 who can build a website from the ground up 🏗️ and make it look fantastic 💅. In addition to a wealth of technical skills, I also pride myself on being a **strong communicator** who can break down complex topics without judgment or jargon. 
+I'm a **software developer** 👨‍💻 with a **design background** 👨‍🎨 who can build a website from the ground up 🏗️ and make it look fantastic 💅. In addition to a wealth of technical skills, I also pride myself on being a **strong communicator** who can break down complex topics without judgment or jargon. 
 
 I spent the last 5 years as a developer, **technical project manager**, and technology department head at an e-commerce company that took in $60M per year in revenue. I'm looking for my next opportunity so here are some of my best work examples:
 
