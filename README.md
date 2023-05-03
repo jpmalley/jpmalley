@@ -6,6 +6,15 @@ I spent the last 5 years as a developer, **technical project manager**, and tech
 
 ------
 
+### [Personal Coaching Website and Marketing Platform](https://alexandriathibodeaux.com)
+***Python, HTML, Sass, CSS, JavaScript, SQL, Django, Wagtail, Bootstrap, AWS ElasticBeanstalk, EC2, RDS, S3, ELB***
+
+A coaching professional needed a platform to tell people about themselves, market their offerings, take payments, provide access to content behind a paywall and blog. I created this Django app using Wagtail CMS so that all of this could be done in one place. The app integrates with MailChimp Marketing PayPal APIs. Everything on the site is configurable by the end user without any need for code. Clients can create accounts, pay and access exclusive content that free users cannot access. Initially hosted on Heroku, I switched hosting to AWS with only minutes of downtime.
+
+Please checkout out the [live site here](https://alexandriathibodeaux.com) and the [source code here](https://github.com/jpmalley/at-public).
+
+------
+
 ### [TeeTurtle.com Homepage & Interface](https://www.teeturtle.com/)
 ***HTML, CSS, JavaScript, JQuery, Bootstrap, Design, Project Management***
 
@@ -16,7 +25,7 @@ The current TeeTurtle.com is still using the same design and interface which I c
 ------
 
 ### [File Transfer App](https://filetransfer.johnpmalley.com)
-***Python, HTML, Sass, CSS, JavaScript, SQL, Django, Bootstrap,AWS ElasticBeanstalk, EC2, RDS, S3, ELB***
+***Python, HTML, Sass, CSS, JavaScript, SQL, Django, Bootstrap, AWS ElasticBeanstalk, EC2, RDS, S3, ELB***
 
 This simple Django app uploads a file securely to Amazon S3 and generates an easily sharable presigned URL with user specified expiration. Upon clicking upload, an AJAX request is sent to the server to generate presigned post URL with specific conditions to the file being uploaded. The request returns a post URL and the client's browser then handles the upload directly to S3 via JavaScript, avoiding additional server-side load. After a successful upload, the server generates a presigned download URL that expires at the specified time. Object lifecycles in the S3 bucket are managed to ensure objects are deleted permanently within 24 hours of link expiration. HTTP/1.1 Caching is also managed to ensure expiration coincides with link expiration.
 
