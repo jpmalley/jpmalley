@@ -6,21 +6,21 @@ I spent the last 5 years as a developer, **technical project manager**, and tech
 
 ------
 
-### [Personal Coaching Website and Marketing Platform](https://alexandriathibodeaux.com)
-***Python, HTML, Sass, CSS, JavaScript, SQL, Django, Wagtail, Bootstrap, AWS ElasticBeanstalk, EC2, RDS, S3, ELB***
-
-A coaching professional needed a platform to tell people about themselves, market their offerings, take payments, provide access to content behind a paywall and blog. I created this Django app using Wagtail CMS so that all of this could be done in one place. The app integrates with MailChimp Marketing PayPal APIs. Everything on the site is configurable by the end user without any need for code. Clients can create accounts, pay and access exclusive content that free users cannot access. Initially hosted on Heroku, I switched hosting to AWS with only minutes of downtime.
-
-Please checkout out the [live site here](https://alexandriathibodeaux.com) and the [source code here](https://github.com/jpmalley/at-public).
-
-------
-
 ### [TeeTurtle.com Homepage & Interface](https://www.teeturtle.com/)
 ***HTML, CSS, JavaScript, JQuery, Bootstrap, Design, Project Management***
 
 At the time, TeeTurtle's entire $10M e-commerce business was hosted on a bog-standard $200 per month Shopify Premium plan. It was sluggish, outdated, and exceedingly restrictive to the business's growth. With the help of a 3rd party project manager and backend developer we duplicated all necessary functionality on our own custom PHP platform, all within eight months. This allowed us to tailor the platform to the specific needs of the business. I was responsible for spec gathering, developer write-ups, stakeholder management, and, most of all, frontend design and development of the entire look and feel of the new site. By 2021, we crossed more than $20M in e-commerce sales, in part due to the speed and efficiency of the new platform that allowed us to easily accommodate the massive increase in online sales during the early months of the pandemic.
 
 The current TeeTurtle.com is still using the same design and interface which I created in 2019 (with some cosmetic updates in 2021, also coded by me). 🔗 [Take a look here!](https://www.teeturtle.com/)
+
+------
+
+### [Personal Coaching Website and Marketing Platform](https://alexandriathibodeaux.com)
+***Python, HTML, Sass, CSS, JavaScript, SQL, Django, Wagtail, Bootstrap, AWS ElasticBeanstalk, EC2, RDS, S3, ELB***
+
+A coaching professional needed a platform to tell people about themselves, market their offerings, take payments, provide access to content behind a paywall and blog. I created this Django app using Wagtail CMS so that all of this could be done in one place. The app integrates with MailChimp Marketing and PayPal APIs to automate list building and taking payments. Everything on the site is configurable by the end user without any need for code. Clients can create accounts, pay and access exclusive content that free users cannot access. Initially hosted on Heroku, I switched hosting to AWS with only minutes of downtime.
+
+Please checkout out the [live site here](https://alexandriathibodeaux.com) and the [source code here](https://github.com/jpmalley/at-public).
 
 ------
 
